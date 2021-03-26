@@ -1,36 +1,23 @@
 # antd-collapse-issue
 
-Empty project.
+Debugging/test-case repo for issue with antd Collapse component and react-hot-reload.
 
 ## Building and running on localhost
 
 First install dependencies:
 
 ```sh
-npm install
+yarn
 ```
 
 To run in hot module reloading mode:
 
 ```sh
-npm start
+yarn start
 ```
 
-To create a production build:
+Test app will run on [localhost:8080/](http://localhost:8080/).
 
-```sh
-npm run build-prod
-```
-
-To create a development build:
-
-```sh
-npm run build-dev
-```
-
-## Running
-
-Open the file `dist/index.html` in your browser
 
 ## Credits
 
